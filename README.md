@@ -1,0 +1,1 @@
+Mind mapping auto creation
